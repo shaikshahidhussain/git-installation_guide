@@ -1,2 +1,5 @@
-<h3>This is my new repo</h3>
-<p>which i had done using the local repo and i use git commands to push through the repo to remote repos</p>
+<h1>This is my new repository</h1>
+<p>which i had done by using git commands from the local repo to  push to remote repos</p>
+<br>
+<br>
+<h2>Learning Git and GitHub with Git Bash: A Comprehensive Guide</h2>
