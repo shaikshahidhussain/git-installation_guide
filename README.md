@@ -1,3 +1,2 @@
 <h3>This is my new repo</h3>
-<p>which i had done using the local repo and i use git commands to push through the repo to remote repos</p>
-<h4>i used branch</h4>
+<p>which i had done using the local repo and i use git commands to push through the repo to remote repo
